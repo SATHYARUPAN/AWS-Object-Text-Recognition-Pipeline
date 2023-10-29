@@ -1,0 +1,1 @@
+# AWS-Object-Text-Recognition-Pipeline
